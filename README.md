@@ -35,4 +35,7 @@ Image number 7 shows the utilization of each bike available within the program.
 ![image](https://user-images.githubusercontent.com/49353083/120082574-b7b7d080-c091-11eb-8652-efc24eb8aab2.png)
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary
+Using the data from the bike-sharing program in New York we create a bike-sharing program in Des Moines. There needs to be a thriving city such as New York, New York and Manhattan, New York. The focus for the program should be males because majority of males rode bikes in the program in New York. For future analysis, the bike utilization should help determine which bikes are more likely needed for repair. There should be more analysis and see what the costs of repairs in bikes are and how it will impact profits for the bike-sharing program.
+
+[Link to Tableau] (https://public.tableau.com/app/profile/shihab.humayun/viz/NYCCitibike_16223078097940/NYCCitibike)
