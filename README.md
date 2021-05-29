@@ -4,7 +4,7 @@
 The analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. One of the key stakeholders wants to see a bike trip analysis to confirm their decision to invest into the program.
 
 
-## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results
 
 Image number 1 shows the checkout times for users. It shows that many people ride the bikes for a short period of time.
 
